@@ -1,1 +1,1 @@
-include ':Cell'
+include ':Cell', ':App'
